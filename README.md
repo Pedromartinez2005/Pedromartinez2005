@@ -37,7 +37,7 @@ En cada uno de mis proyectos vas a encontrar la misma estructura: primero el obj
 Comparativa de 4 modelos de clasificación para decidir si conceder crédito a un cliente. El modelo final no lo decide la accuracy más alta: definimos primero qué tipo de error (rechazar un buen cliente vs. aprobar uno malo) encajaba con una estrategia de crecimiento, y elegimos según ese criterio de negocio.
 
 ### 🚗 [Depreciación de coches de ocasión en 4 mercados europeos](https://github.com/Pedromartinez2005/coches)
-Web scraping de 7 portales en España, Francia, Alemania y Holanda para cuantificar cómo se deprecia un coche según el kilometraje, mercado por mercado. Pensado con un caso de uso real: una empresa de renting o gestión de flotas decidiendo en qué país vender sus vehículos.
+Web scraping de 7 portales en España, Francia, Alemania y Holanda para cuantificar cómo se deprecia un coche según el kilometraje, mercado por mercado. Esa tasa de depreciación real (€ por cada 10.000 km) es justo el dato que una empresa de renting necesita para fijar la cuota mensual según el kilometraje contratado: a más depreciación por km, mayor debería ser la cuota si el cliente pide más kilómetros incluidos o gestión de flotas decidiendo en qué país vender sus vehículos.
 
 ### 🧩 [Clasificación con métodos de Ensemble](https://github.com/Pedromartinez2005/ensemble-classification)
 Comparativa sistemática de 7 familias de clasificadores (Bagging, Random Forest, AdaBoost, Gradient Boosting, Stacking...). Ante un empate técnico entre dos modelos, elegimos el más simple — la misma pregunta que hay que hacerse antes de llevar un modelo a producción: ¿esa décima de más justifica el coste de mantener algo más complejo?
