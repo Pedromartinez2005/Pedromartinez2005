@@ -1,4 +1,4 @@
-# 👋 Hola, soy Pedro Martínez Gutiérrez
+# 👋 Hola, soy Pedro Álvaro Martínez Gutiérrez
 
 Estudiante de último curso del **Grado en Ciencia de Datos e Inteligencia Artificial** (Universidad Politécnica de Madrid). Lo que más me interesa de este campo no es solo entrenar el modelo con la mejor métrica, sino entender **qué decisión de negocio hay detrás de cada proyecto**: qué error cuesta más caro, qué estrategia se prioriza, qué es mantenible de verdad en producción.
 
